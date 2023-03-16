@@ -27,4 +27,10 @@
   
 ========================
 
-5. 
+5. llama ：Meta大型语言模型
+  - https://github.com/facebookresearch/llama 
+  
+  ========================
+  
+  
+  
