@@ -13,4 +13,9 @@
   - chatgpt 平替 ；Prompt 的调试与管理工具；
   - https://github.com/Bin-Huang/chatbox 
 
-
+4. chatGLM 
+  - chatgpt平替；对chatgpt蒸馏；可以本地finetune 
+  - https://github.com/ssbuild/chatglm_finetuning
+  
+  
+5. 
