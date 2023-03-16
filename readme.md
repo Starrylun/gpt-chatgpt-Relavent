@@ -4,19 +4,27 @@
   - 简介：chatbots for various applications 
   - https://github.com/togethercomputer/OpenChatKit 
   - https://huggingface.co/spaces/togethercomputer/OpenChatKit
+ 
+========================
 
 2. modelscope 
   - 简介：类似于hugging face
   - https://community.modelscope.cn/
 
+========================
+
 3. chatbox 
   - chatgpt 平替 ；Prompt 的调试与管理工具；
   - https://github.com/Bin-Huang/chatbox 
 
+========================
 
 4. chatGLM 
   - chatgpt平替；对chatgpt蒸馏；可以本地finetune 
-  - https://github.com/ssbuild/chatglm_finetuning
+  - https://github.com/THUDM/ChatGLM-6B
+  - https://github.com/ssbuild/chatglm_finetuning （finetune版本）
+  - https://github.com/Akegarasu/ChatGLM-webui  （webui版本）
   
-  
+========================
+
 5. 
