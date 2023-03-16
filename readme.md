@@ -30,7 +30,18 @@
 ## 5. llama ：Meta大型语言模型
   - https://github.com/facebookresearch/llama 
   
+========================
+  
+## 6. ChatGPT镜像站点收藏网站   
+  - https://github.com/xx025/carrot
+
   ========================
-  
-  
-  
+
+
+
+
+
+
+
+
+
