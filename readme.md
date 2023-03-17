@@ -46,6 +46,7 @@
   - https://github.com/BlinkDL/ChatRWKV
   - https://github.com/BlinkDL/AI-Writer  （ai-writer） 
   - https://github.com/BlinkDL/RWKV-LM  
+  - https://github.com/hizkifw/WebChatRWKVstic （web chatrwkv ui）
 
   ========================
 
