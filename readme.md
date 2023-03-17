@@ -42,8 +42,12 @@
 
   ========================
 
+## 8. ChatRWKV：优化 rnn 和 transformer 的基本结构 
+  - https://github.com/BlinkDL/ChatRWKV
+  - https://github.com/BlinkDL/AI-Writer  （ai-writer） 
+  - https://github.com/BlinkDL/RWKV-LM  
 
-
+  ========================
 
 
 
