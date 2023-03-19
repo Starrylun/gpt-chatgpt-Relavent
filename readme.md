@@ -48,9 +48,12 @@
   - https://github.com/BlinkDL/RWKV-LM  
   - https://github.com/hizkifw/WebChatRWKVstic （web chatrwkv ui）
 
-  ========================
+========================
 
-
+## 9. cursor 代码编译器 
+  - https://www.cursor.so/   （将openai的gpt集成到到编译器中） 
+ 
+========================
 
 
 
