@@ -59,6 +59,13 @@
   - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
   - 
 
+========================
 
+
+## 11. FreeChatGPT 
+  - https://github.com/ztjhz/FreeChatGPT
+
+
+========================
 
 
