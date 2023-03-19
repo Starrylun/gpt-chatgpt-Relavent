@@ -55,7 +55,9 @@
  
 ========================
 
-
+## 10. 开源语言模型记录 
+  - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
+  - 
 
 
 
