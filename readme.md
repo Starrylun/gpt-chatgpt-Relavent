@@ -68,7 +68,7 @@
 
 ========================
 
-## Alpaca LLaMA  开源的chat对标产品 
+## Alpaca LLaMA  开源的chat对标项目 
   - https://github.com/tatsu-lab/stanford_alpaca
   - https://github.com/LianjiaTech/BELLE  （中文chat数据集）
 
