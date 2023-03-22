@@ -60,6 +60,7 @@
   <summary> 开源语言模型记录 </summary>
   
   - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
+  - https://github.com/manueldeprada/Pretraining-T5-PyTorch-Lightning （微调 T5）
   
 </details>
 
@@ -81,6 +82,8 @@
   - https://github.com/ssbuild/chatglm_finetuning （finetune版本）
   - https://github.com/Akegarasu/ChatGLM-webui  （webui版本）
   - https://github.com/mymusise/ChatGLM-Tuning  （tune glm） 
+  - https://github.com/yongzhuo/chatglm-maths （微调 glm，用来完成小数运算的任务）
+  
   
 </details>
 
