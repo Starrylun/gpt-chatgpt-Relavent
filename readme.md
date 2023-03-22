@@ -35,6 +35,7 @@
   - https://github.com/THUDM/ChatGLM-6B
   - https://github.com/ssbuild/chatglm_finetuning （finetune版本）
   - https://github.com/Akegarasu/ChatGLM-webui  （webui版本）
+  - https://github.com/mymusise/ChatGLM-Tuning  （tune glm） 
   
 ========================
 
