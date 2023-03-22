@@ -1,32 +1,53 @@
-# 记录看到的有关 chatgpt 的内容 
+# chatgpt 直接使用  
 
 ## chatgpt-api 相关项目 
   - https://github.com/GaiZhenbiao/ChuanhuChatGPT  （微信桌面端的 chatgpt项目，需要使用 api-key） 
-
+  - https://github.com/ztjhz/FreeChatGPT （类chatgpt界面，需要api-key）
+  - https://github.com/Bin-Huang/chatbox （chatgpt 平替 ；加入 Prompt 的调试与管理工具）
+  - 
+  
 ========================
   
 ## ChatGPT镜像站点收藏网站  
   - https://github.com/xx025/carrot
 
+========================================================================================================================
 
+
+# chatgpt 辅助办公相关项目 
+
+## onlyoffice -- chatgpt  
+  - https://github.com/ONLYOFFICE/onlyoffice.github.io   （ 微软 office 的平替版） 
+
+========================
+
+## cursor 代码编译器 
+  - https://www.cursor.so/   （将openai的gpt集成到到编译器中） 
+
+========================
+
+## bibigpt 
+  - https://github.com/JimmyLv/BibiGPT 
+
+========================
+
+
+
+
+========================================================================================================================
+
+# 类chatgpt的开源项目 （算法相关）
+
+##  开源语言模型记录 
+  - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
+  - 
+  
 ========================
 
 ## OpenChatKit
   - 简介：chatbots for various applications 
   - https://github.com/togethercomputer/OpenChatKit 
   - https://huggingface.co/spaces/togethercomputer/OpenChatKit
- 
-========================
-
-## modelscope 
-  - 简介：类似于hugging face
-  - https://community.modelscope.cn/
-
-========================
-
-## chatbox 
-  - chatgpt 平替 ；Prompt 的调试与管理工具；
-  - https://github.com/Bin-Huang/chatbox 
 
 ========================
 
@@ -43,16 +64,6 @@
   - https://github.com/facebookresearch/llama 
   
 ========================
-  
-## ChatGPT镜像站点收藏网站  
-  - https://github.com/xx025/carrot
-
-  ========================
-
-## bibigpt 
-  - https://github.com/JimmyLv/BibiGPT 
-
-  ========================
 
 ## ChatRWKV：优化 rnns 和 transformer 的基本结构 
   - https://github.com/BlinkDL/ChatRWKV
@@ -62,34 +73,9 @@
 
 ========================
 
-## cursor 代码编译器 
-  - https://www.cursor.so/   （将openai的gpt集成到到编译器中） 
- 
-========================
-
-##  开源语言模型记录 
-  - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
-  - 
-
-========================
-
-
-##  FreeChatGPT 
-  - https://github.com/ztjhz/FreeChatGPT
-
-
-========================
-
 ## Alpaca LLaMA  开源的chat对标项目 
   - https://github.com/tatsu-lab/stanford_alpaca
   - https://github.com/LianjiaTech/BELLE  （中文chat数据集）
-
-
-========================
-
-## onlyoffice -- chatgpt  
-  - https://github.com/ONLYOFFICE/onlyoffice.github.io   （ 微软 office 的平替版） 
-
 
 ========================
 
