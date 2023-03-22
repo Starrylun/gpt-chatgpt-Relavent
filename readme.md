@@ -61,6 +61,7 @@
   
   - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
   - https://github.com/manueldeprada/Pretraining-T5-PyTorch-Lightning （微调 T5）
+  - https://github.com/microsoft/LoRA  （ 可用 LoRA 提升gpt性能）
   
 </details>
 
@@ -92,6 +93,7 @@
   
   - https://github.com/facebookresearch/llama 
   
+  
 </details>
 
 <details open>
@@ -109,6 +111,14 @@
   
   - https://github.com/tatsu-lab/stanford_alpaca
   - https://github.com/LianjiaTech/BELLE  （中文chat数据集）
+</details>
+
+<details open>
+  <summary>  RLHF 训练相关的项目  </summary>
+  
+  - https://github.com/lucidrains/PaLM-rlhf-pytorch  （使用 RLHF 训练 PaLM ） 
+  - https://github.com/sunzeyeah/RLHF  （ RLHF ）
+  
 </details>
 
 
