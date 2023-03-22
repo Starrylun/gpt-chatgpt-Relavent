@@ -19,6 +19,17 @@
   
 </details>
 
+
+
+
+<details open>
+  <summary> chatgpt 中文提示词 prompts </summary>
+  
+  - 使用 提示词 可以让 chatgpt 更好的有针对性的回答 
+  - https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+  
+</details>
+
 ---
 
 # chatgpt 辅助办公相关项目 
