@@ -88,13 +88,6 @@
   
 </details>
 
-<details open>
-  <summary>  llama ：Meta大型语言模型  </summary>
-  
-  - https://github.com/facebookresearch/llama 
-  
-  
-</details>
 
 <details open>
   <summary> ChatRWKV：优化 rnns 和 transformer 的基本结构  </summary>
@@ -106,12 +99,16 @@
 
 </details>
 
+
 <details open>
-  <summary>  Alpaca LLaMA  开源的chat对标项目  </summary>
+  <summary>  LLaMA  开源的chat对标项目  </summary>
   
-  - https://github.com/tatsu-lab/stanford_alpaca
+  - https://github.com/facebookresearch/llama  （LLaMA ：Meta大型语言模型 ）
+  - https://github.com/tatsu-lab/stanford_alpaca  （ alpaca ）
   - https://github.com/LianjiaTech/BELLE  （中文chat数据集）
+  
 </details>
+
 
 <details open>
   <summary>  RLHF 训练相关的项目  </summary>
