@@ -37,19 +37,25 @@
 # chatgpt 辅助办公相关项目 
 
 <details open>
-  <summary> onlyoffice -- chatgpt </summary>
+  <summary> onlyoffice -- chatgpt </summary> 
+  
   - https://github.com/ONLYOFFICE/onlyoffice.github.io   （ 微软 office 的平替版） 
   
 </details>
 
 <details open>
   <summary> cursor 代码编译器  </summary>
+  
   - https://www.cursor.so/   （将openai的gpt集成到到编译器中） 
+  
 </details>
 
 <details open>
-  <summary> bibigpt </summary>
+  <summary> 多媒体-音视频相关的gpt应用 </summary>
+  
   - https://github.com/JimmyLv/BibiGPT （使用 chatgpt-api提取b站视频文案的大纲）
+  - https://modelscope.cn/models/damo/text-to-video-synthesis/summary  （阿里多模态 text2vedio 体验口) 
+  
 </details>
 
 ---
