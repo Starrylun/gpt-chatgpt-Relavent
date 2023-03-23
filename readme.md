@@ -6,6 +6,8 @@
    - https://github.com/GaiZhenbiao/ChuanhuChatGPT  （微信桌面端的 chatgpt项目，需要使用 api-key） 
   
    - https://github.com/ztjhz/FreeChatGPT （类chatgpt界面，需要api-key）
+   
+   - https://builtbyjesse.com/lab （ chatgpt 相关产品聚合会话） 
   
    - https://github.com/Bin-Huang/chatbox （chatgpt 平替 ；加入 Prompt 的调试与管理工具）
 
@@ -80,7 +82,7 @@
   
   - chatgpt平替；对chatgpt蒸馏；可以本地finetune 
   - https://github.com/THUDM/ChatGLM-6B
-  - https://github.com/ssbuild/chatglm_finetuning （finetune版本）
+  - https://github.com/ssbuild/chatglm_finetuning （finetune版本 lora）
   - https://github.com/Akegarasu/ChatGLM-webui  （webui版本）
   - https://github.com/mymusise/ChatGLM-Tuning  （tune glm） 
   - https://github.com/yongzhuo/chatglm-maths （微调 glm，用来完成小数运算的任务）
@@ -106,7 +108,7 @@
   - https://github.com/facebookresearch/llama  （LLaMA ：Meta大型语言模型 ）
   - https://github.com/tatsu-lab/stanford_alpaca  （ alpaca ）
   - https://github.com/LianjiaTech/BELLE  （ 链家开源的 中文chat数据集 ）
-  
+  - https://github.com/lxe/simple-llama-finetuner  （在 webui 界面中 微调 LLaMa ）
 </details>
 
 
