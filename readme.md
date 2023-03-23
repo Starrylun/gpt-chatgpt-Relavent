@@ -108,8 +108,8 @@
   - https://github.com/facebookresearch/llama  （LLaMA ：Meta大型语言模型 ）
   - https://github.com/LianjiaTech/BELLE  （ 链家开源的 中文chat数据集 ）
   - https://github.com/lxe/simple-llama-finetuner  （在 webui 界面中 微调 LLaMa ） 
-  
   - https://github.com/tatsu-lab/stanford_alpaca  （ alpaca ）
+  - https://github.com/tloen/alpaca-lora  （ 使用 lora 微调训练 LLaMa ）
   - https://github.com/LC1332/Chinese-alpaca-lora  （ 中文版的 alpaca，使用LoRA 训练）
   
 </details>
