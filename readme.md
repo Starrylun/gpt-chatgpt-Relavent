@@ -11,6 +11,8 @@
    - https://builtbyjesse.com/lab （ chatgpt 相关产品聚合会话） 
   
    - https://github.com/Bin-Huang/chatbox （chatgpt 平替 ；加入 Prompt 的调试与管理工具）
+  
+  - https://github.com/openai/chatgpt-retrieval-plugin （chatgpt 检索插件）
 
 </details>
 
