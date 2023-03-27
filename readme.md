@@ -6,6 +6,7 @@
    - https://github.com/GaiZhenbiao/ChuanhuChatGPT  （微信桌面端的 chatgpt项目，需要使用 api-key） 
   
    - https://github.com/ztjhz/FreeChatGPT （类chatgpt界面，需要api-key）
+   - https://github.com/ztjhz/BetterChatGPT
    
    - https://builtbyjesse.com/lab （ chatgpt 相关产品聚合会话） 
   
@@ -129,4 +130,15 @@
   
 </details>
 
+
+<details open>
+  <summary> visual chatgpt相关仓库  </summary>
+  
+  - https://github.com/microsoft/visual-chatgpt （visual chatgpt，需要使用chatgpt-api）
+  - https://github.com/visual-openllm/visual-openllm   （ chatglm + visual chatgpt + stable diffusion）
+  
+  
+  
+  
+</details>
 
