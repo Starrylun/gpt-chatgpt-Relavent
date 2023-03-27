@@ -70,7 +70,7 @@
 <details open>
   <summary> 开源语言模型记录 </summary>
   
-  - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg 
+  - https://mp.weixin.qq.com/s/2u8um_ZVmEAZPqGdYBNUIg  ；https://mp.weixin.qq.com/s/0dfTpQpUUsixPPuZwS5vdA
   - https://github.com/manueldeprada/Pretraining-T5-PyTorch-Lightning （微调 T5）
   - https://github.com/microsoft/LoRA  （ 可用 LoRA 提升gpt性能）
   
@@ -120,6 +120,18 @@
   - https://github.com/tatsu-lab/stanford_alpaca  （ alpaca ）
   - https://github.com/tloen/alpaca-lora  （ 使用 lora 微调训练 LLaMa ）
   - https://github.com/LC1332/Chinese-alpaca-lora  （ 中文版的 alpaca，使用LoRA 训练）
+  
+  - https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama （chat llama ）
+  
+</details>
+
+
+<details open>
+  <summary>  ChatLLaMA 对标 chatgpt  </summary> 
+  - https://github.com/juncongmoo/chatllama （ chatllama ）
+  - https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama （chatllama-py ）
+  - https://github.com/serp-ai/ChatLLaMA-and-ChatGPT-Desktop-App  （chatllama gui 制作）
+  
   
 </details>
 
