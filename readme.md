@@ -126,8 +126,9 @@
 </details>
 
 
-<details open>
+<details open> 
   <summary>  ChatLLaMA 对标 chatgpt  </summary> 
+  
   - https://github.com/juncongmoo/chatllama （ chatllama ）
   - https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama （chatllama-py ）
   - https://github.com/serp-ai/ChatLLaMA-and-ChatGPT-Desktop-App  （chatllama gui 制作）
