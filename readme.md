@@ -61,6 +61,16 @@
   
 </details>
 
+
+<details open>
+  <summary>chatgpt插件 </summary>
+  
+  - https://github.com/openai/chatgpt-retrieval-plugin （chatgpt 插件）
+  
+</details>
+
+
+
 ---
 
 
