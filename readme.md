@@ -32,6 +32,7 @@
   
   - 使用 提示词 可以让 chatgpt 更好的有针对性的回答 
   - https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+  - https://github.com/f/awesome-chatgpt-prompts 
   
 </details>
 
