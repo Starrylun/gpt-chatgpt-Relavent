@@ -132,6 +132,7 @@
   - https://github.com/LC1332/Chinese-alpaca-lora  （ 中文版的 alpaca，使用LoRA 训练）
   
   - https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama （chat llama ）
+  - https://github.com/Kent0n-Li/ChatDoctor （llama 结合 医疗专业知识 微调）
   
 </details>
 
