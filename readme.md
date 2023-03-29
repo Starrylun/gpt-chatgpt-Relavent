@@ -4,15 +4,11 @@
   <summary> chatgpt-api 相关项目  </summary>
   
    - https://github.com/GaiZhenbiao/ChuanhuChatGPT  （微信桌面端的 chatgpt项目，需要使用 api-key） 
-  
    - https://github.com/ztjhz/FreeChatGPT （类chatgpt界面，需要api-key）
    - https://github.com/ztjhz/BetterChatGPT
-   
    - https://builtbyjesse.com/lab （ chatgpt 相关产品聚合会话） 
-  
    - https://github.com/Bin-Huang/chatbox （chatgpt 平替 ；加入 Prompt 的调试与管理工具）
-  
-  - https://github.com/openai/chatgpt-retrieval-plugin （chatgpt 检索插件）
+   - https://github.com/binary-husky/chatgpt_academic  （学术版 chatgpt ，使用网页装入了 prompt ，直接调用openai-api完成相关场景的输出 ）
 
 </details>
 
@@ -67,7 +63,7 @@
 <details open>
   <summary>chatgpt插件 </summary>
   
-  - https://github.com/openai/chatgpt-retrieval-plugin （chatgpt 插件）
+  - https://github.com/openai/chatgpt-retrieval-plugin （chatgpt 检索插件）
   
 </details>
 
