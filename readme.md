@@ -117,8 +117,12 @@
   
   - https://github.com/BlinkDL/ChatRWKV
   - https://github.com/BlinkDL/AI-Writer  （ai-writer） 
-  - https://github.com/BlinkDL/RWKV-LM  
+  
+  - https://github.com/harrisonvanderbyl/rwkvstic  （ rwkvstic 启用后端 ）
   - https://github.com/hizkifw/WebChatRWKVstic （web chatrwkv ui）
+  
+  - https://github.com/BlinkDL/RWKV-LM  
+  - https://github.com/Blealtan/RWKV-LM-LoRA （使用lora微调 rwkv-lm）
 
 </details>
 
