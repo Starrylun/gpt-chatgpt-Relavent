@@ -129,8 +129,8 @@
 
 <details open>
   <summary>  LLaMA  开源的chat对标项目  </summary> 
-  - https://github.com/facebookresearch/llama  （LLaMA ：Meta大型语言模型 ）
   
+  - https://github.com/facebookresearch/llama  （LLaMA ：Meta大型语言模型 ）
   - https://github.com/lxe/simple-llama-finetuner  （在 webui 界面中 微调 LLaMa ） 
   - https://github.com/tatsu-lab/stanford_alpaca  （ alpaca ）
   - https://github.com/tloen/alpaca-lora  （ 使用 lora 微调训练 LLaMa ）
@@ -144,9 +144,10 @@
 
 <details open> 
   <summary>  ChatLLaMA 对标 chatgpt  </summary>  
+  
   - https://github.com/juncongmoo/chatllama （ chatllama ）
   - https://github.com/ydli-ai/Chinese-ChatLLaMA （中文LLaMA基础模型）
-  - - https://github.com/LianjiaTech/BELLE  （ 链家开源的 中文chat数据集 ） 
+  - https://github.com/LianjiaTech/BELLE  （ 链家开源的 中文chat数据集 ） 
   - https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama （chatllama-py ）
   - https://github.com/serp-ai/ChatLLaMA-and-ChatGPT-Desktop-App  （chatllama gui 制作）
   
