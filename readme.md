@@ -21,6 +21,7 @@
   <summary> chatgpt 镜像站点收藏网站   </summary>
   
   - https://github.com/xx025/carrot 
+  - https://nat.dev/ （聚合了多个chatgpt和类chatgpt的接口）
   
 </details>
 
@@ -150,6 +151,15 @@
 
 
 <details open>
+  <summary> chatyuan  </summary>
+  
+  - https://github.com/clue-ai/ChatYuan
+  
+</details>
+
+
+
+<details open>
   <summary>  RLHF 训练相关的项目  </summary>
   
   - https://github.com/lucidrains/PaLM-rlhf-pytorch  （使用 RLHF 训练 PaLM ） 
@@ -164,8 +174,10 @@
   - https://github.com/microsoft/visual-chatgpt （visual chatgpt，需要使用chatgpt-api）
   - https://github.com/visual-openllm/visual-openllm   （ chatglm + visual chatgpt + stable diffusion）
   
-  
-  
-  
 </details>
+
+
+
+
+
 
