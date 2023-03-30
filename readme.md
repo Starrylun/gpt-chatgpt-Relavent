@@ -48,6 +48,7 @@
   <summary> cursor 代码编译器  </summary>
   
   - https://www.cursor.so/   （将openai的gpt集成到到编译器中） 
+  - https://github.com/MZhao-ouo/CMDGPT  （自然语言的命令行编程） 
   
 </details>
 
