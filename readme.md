@@ -9,7 +9,8 @@
    - https://builtbyjesse.com/lab （ chatgpt 相关产品聚合会话） 
    - https://github.com/Bin-Huang/chatbox （chatgpt 平替 ；加入 Prompt 的调试与管理工具）
    - https://github.com/binary-husky/chatgpt_academic  （学术版 chatgpt ，使用网页装入了 prompt ，直接调用openai-api完成相关场景的输出 ）
-
+   - https://github.com/kaixindelele/ChatPaper  （chatpaper 阅读论文，润色，优化） 
+  
 </details>
 
 
