@@ -105,7 +105,8 @@
   - https://github.com/Akegarasu/ChatGLM-webui  （webui版本）
   - https://github.com/mymusise/ChatGLM-Tuning  （tune glm） 
   - https://github.com/yongzhuo/chatglm-maths （微调 glm，用来完成小数运算的任务）
-  
+  - https://github.com/liucongg/ChatGLM-Finetuning  （微调 glm ）
+  - https://github.com/yanqiangmiffy/Chinese-LangChain （基于 chatglm 做的一个 web 搜索系统 ）
   
 </details>
 
